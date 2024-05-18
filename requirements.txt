@@ -1,0 +1,6 @@
+lightgbm==3.3.5
+numba==0.56.4
+numpy==1.18.5
+python_igraph==0.10.4
+scikit_learn==1.0.2
+tqdm==4.64.1
