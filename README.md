@@ -1,4 +1,4 @@
-# Identifiability Matters: Revealing the Hidden Recoverable Condition in Unbiased Learning to Rank
+# ULTR-identifiability
 
 We provide the code for our work: "Identifiability Matters: Revealing the Hidden Recoverable Condition in Unbiased Learning to Rank".
 
@@ -104,5 +104,18 @@ python test_semi_synthetic.py --data_path Yahoo_letor/tmp_data --context_path Ya
 
 ```bash
 python test_semi_synthetic.py --data_path Yahoo_letor/tmp_data --context_path Yahoo_letor/tmp_data/context.pkl --no_identification
+```
+
+## Citation
+
+Please consider citing the following paper when using our code for your application.
+
+```bibtex
+@inproceedings{chen2024identifiability,
+  title={Identifiability Matters: Revealing the Hidden Recoverable Condition in Unbiased Learning to Rank},
+  author={Mouxiang Chen and Chenghao Liu and Zemin Liu and Zhuo Li and Jianling Sun},
+  booktitle={Proceedings of the 41st International Conference on Machine Learning},
+  year={2024}
+}
 ```
 
